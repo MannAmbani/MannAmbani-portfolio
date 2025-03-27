@@ -1,0 +1,269 @@
+{
+  "hero": {
+    "imgUrl": "/src/assets/mann1.jpeg",
+    "name": "Mann Ambani",
+    "heading": "Hay! I’m Mann",
+    "typingText": ["I'm a Developer", 1500, "I'm a Contributor", 1500],
+    "description": "<b>Android & Cross-Platform Developer | Secure Software Specialist</b><br>I craft clean, efficient code and intuitive apps with a focus on security, test-driven development (TDD), and scalability. From Android and IoT solutions to cloud-based systems, I deliver high-performance, user-centric experiences. Let’s build innovative, secure, and impactful digital solutions together.",
+    "btnText": "Get in touch",
+    "btnUrl": "contactus"
+  },
+  "brands": [
+    {
+      "src": "/src/assets/java.png",
+      "alt": "Java"
+    },
+    {
+      "src": "/src/assets/kotlin.svg",
+      "alt": "Kotlin"
+    },
+    {
+      "src": "/src/assets/swift.svg",
+      "alt": "Swift"
+    },
+    {
+      "src": "/src/assets/dart.svg",
+      "alt": "Dart"
+    },
+    {
+      "src": "/src/assets/csharp.svg",
+      "alt": "C#"
+    },
+    {
+      "src": "/src/assets/javascript.svg",
+      "alt": "Javascript"
+    },
+    {
+      "src": "/src/assets/html.svg",
+      "alt": "HTML"
+    },
+    {
+      "src": "/src/assets/css.svg",
+      "alt": "CSS"
+    }
+  ],
+  "about": {
+    "imgSrc": "/src/assets/mann1.jpeg",
+    "miniTitle": "About Me",
+    "title": "I AM AVAILABLE FOR <span>Mobile Development</span> PROJECTS",
+    "description": "Need a skilled mobile developer? I specialize in Android and cross-platform app development using Kotlin, Java, and Flutter. From building custom apps to enhancing existing ones, I create seamless, user-friendly solutions that bring your ideas to life. Let’s work together to turn your vision into reality!",
+    "funfacts": [
+      {
+        "title": "Linkedin Connections",
+        "number": 1000
+      },
+      {
+        "title": "Years Experience",
+        "number": 2
+      }
+    ],
+    "btnText": "Get in touch",
+    "btnUrl": "contactus"
+  },
+  "projects": {
+    "sectionHeading": {
+      "miniTitle": "My Work",
+      "title": "RECENT PROJECT"
+    },
+    "allProjects": [
+      {
+        "thumbUrl": "/src/assets/popup-project-1.jpeg",
+        "title": "Garden Nerds",
+        "subTitle": "Android Application with Wear OS Application",
+        "details": {
+          "title": "Application for gardening enthusiasts",
+          "description": "The smart way to garden! Our app uses AR to measure your garden space and provides tailored product suggestions. With smart APIs sensors, track soil health, moisture levels, and more, receiving real-time notifications to ensure your plants thrive. Simplify gardening with Garden Nerds!🌱",
+          "type": "Android Application",
+          "langages": "Java, XML, SQL, NodeJS",
+          "platform": "Android Studio",
+          "country": "Canada",
+          "url": "https://drive.google.com/file/d/1T32SfH7i1tGVZ6u6G-CvtfkJ719vH_Tt/view?usp=sharing"
+        }
+      },
+      {
+        "thumbUrl": "/src/assets/popup-project-2.jpg",
+        "title": "First Choice",
+        "subTitle": "MERN Stack E-commerce web App",
+        "details": {
+          "title": "Website for clothing and lifestyle",
+          "description": "Built a dynamic shopping cart UI using React.js as part of my Web Technologies assignment. This project features real-time item updates, responsive design, and modular components for scalability. It showcases my ability to create interactive and user-friendly web applications. Watch the video to see it in action! 🚀",
+          "type": "Website",
+          "langages": "REACT, NODEJS, EXPRESS SERVER, MONGODB",
+          "platform": "VS CODES",
+          "country": "Canada",
+          "url": "https://drive.google.com/file/d/1OFlYhobwYGzhlu0MLoAxIsIzf5Bu44nH/view"
+        }
+      },
+      {
+        "thumbUrl": "/src/assets/popup-project-3.jpg",
+        "title": "Pass Call",
+        "subTitle": "Internet free local network calling",
+        "details": {
+          "title": "App that allows user to call anyone on same network without internet",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br><br>xcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          "type": "Android App",
+          "langages": "Kotlin, Jetpack Compose, Socket, WebRtc",
+          "platform": "Android Studio",
+          "country": "Canada",
+          "url": "www.example.com"
+        }
+      }
+    ]
+  },
+  "service": {
+    "sectionHeading": {
+      "miniTitle": "SERVICES",
+      "title": "<span>services</span> I am providing"
+    },
+    "allService": [
+      {
+        "imgUrl": "/src/assets/service-01.jpg",
+        "title": "Android App Development",
+        "subTitle": "Building and Deploying mobile apps with Android (Java, Kotlin), focusing on performance and scalability.",
+        "icon": "bi:phone",
+        "ratings": 5
+      },
+      {
+        "imgUrl": "/src/assets/service-07.webp",
+        "title": "IOS App Development",
+        "subTitle": "Building mobile apps with iOS (Swift), focusing on performance and scalability.",
+        "icon": "bi:phone",
+        "ratings": 5
+      },
+      {
+        "imgUrl": "/src/assets/service-02.jpg",
+        "title": "Responsive Web Design",
+        "subTitle": "Proficient in web technologies like HTML5, CSS3, and JavaScript to create visually appealing and responsive designs.",
+        "icon": "bi:code-slash",
+        "ratings": 5
+      },
+      {
+        "imgUrl": "/src/assets/service-03.jpg",
+        "title": "IOT & Android Integration",
+        "subTitle": "Implemented advanced features like IOT device control and multicasting capabilities to enhance user convenience and efficiency.",
+        "icon": "bi:cloud",
+        "ratings": 5
+      },
+      {
+        "imgUrl": "/src/assets/service-08.webp",
+        "title": "Quality Assurance & Testing",
+        "subTitle": "Conducted rigorous testing, including unit, integration, and UI testing, to ensure high-quality and bug-free applications.",
+        "icon": "bi:kanban",
+        "ratings": 5
+      },
+      {
+        "imgUrl": "/src/assets/service-04.jpg",
+        "title": "Mobile App Security",
+        "subTitle": "Expertise in ensuring mobile app security and implementing robust data protection measures.",
+        "icon": "bi:shield-lock",
+        "ratings": 5
+      },
+      {
+        "imgUrl": "/src/assets/service-05.jpg",
+        "title": "Agile and Scrum Development",
+        "subTitle": "Delivered real-world projects, including capstone initiatives, using Agile methodologies and Scrum planning for iterative and efficient development.",
+        "icon": "bi:kanban",
+        "ratings": 5
+      },
+      {
+        "imgUrl": "/src/assets/service-06.jpg",
+        "title": "Database Management & API Integration",
+        "subTitle": "Skilled in database design and management, with hands-on experience integrating APIs for seamless functionality.",
+        "icon": "bi:server",
+        "ratings": 5
+      }
+    ]
+  },
+  "experience": {
+    "sectionHeading": {
+      "miniTitle": "Experience",
+      "title": "My Work <span>Experience</span>"
+    },
+    "allExperience": [
+      {
+        "designation": "Software Engineer - Android",
+        "company": "OOB SMARTHOME",
+        "duration": "Jul 2022 - Jul 2023",
+        "jobType": "Full time",
+        "companyDescription": "At <b>OOB SMARTHOME</b>, a leading <b>IoT and smart home automation</b> company, I played a pivotal role in developing and maintaining high-performance Android applications. Using <b>Kotlin, Jetpack Compose, Dagger Hilt, and RxJava</b>, I optimized app architecture following <b>MVVM/MVC principles</b>, significantly improving maintainability and reducing bugs. I successfully integrated <b>RESTful APIs, third-party payment gateways</b>, and <b>security best practices</b>, ensuring a <b>seamless and secure</b> user experience. My contributions led to a <b>4.7/5 rating on the Google Play Store</b> with <b>5,000+ downloads</b>, enhancing user satisfaction and engagement. Additionally, I focused on <b>performance optimization</b> using <b>Room Database and SQLite</b>, reducing data retrieval time by <b>30%</b>, while conducting rigorous <b>unit and UI testing (JUnit, Espresso)</b> to ensure application stability."
+      },
+      {
+        "designation": "Junior Software Engineer",
+        "company": "BrainyBeam Technologies",
+        "duration": "Aug 2021 - Jun 2022",
+        "jobType": "Full time",
+        "companyTitle": "Junior Software Engineer",
+        "companyDescription": "As a <b>Junior Software Engineer</b> at <b>BrainyBeam Technologies</b>, I worked on designing and developing <b>scalable Android applications</b> using <b>Kotlin, XML, and Dagger Hilt</b> while adhering to <b>clean architecture principles</b>. I collaborated with cross-functional teams to integrate <b>third-party APIs</b>, improving app performance by <b>25%</b> and ensuring <b>99% uptime</b>. My contributions to streamlining development workflows and utilizing <b>GitHub for version control</b> and <b>JIRA for agile task management</b> led to delivering <b>5+ projects ahead of schedule</b>. Additionally, I implemented <b>Firebase Analytics</b> to track user behavior, providing insights that <b>boosted engagement by 10%</b>. My ability to work efficiently in <b>fast-paced agile environments</b> helped accelerate release cycles and maintain <b>high-quality standards</b>."
+      },
+      {
+        "designation": "Software Engineer - Intern",
+        "company": "BrainyBeam Technologies",
+        "duration": "Jan 2021 - Jul 2021",
+        "jobType": "Internship",
+        "companyDescription": "During my <b>internship</b> at <b>BrainyBeam Technologies</b>, I gained hands-on experience in <b>Android app development with Kotlin and Flutter</b>, focusing on <b>user-centric design</b> and <b>usability best practices</b>. My work on <b>integrating third-party APIs for data synchronization</b> contributed to <b>98% app uptime</b>, ensuring seamless cross-device performance. I actively collaborated with senior developers, following <b>Git flow strategies</b> and <b>agile methodologies</b>, which helped in the <b>timely delivery of 5+ major feature enhancements</b>. By prioritizing <b>code quality, security, and optimization</b>, I contributed to a <b>15% improvement in user engagement metrics</b>, leading to <b>higher app store ratings</b>."
+      }
+    ]
+  },
+  "testimonial": {
+    "sectionHeading": {
+      "miniTitle": "Recommendations",
+      "title": "Endorsed by <span>Professionals</span>  <br />I’ve Collaborated With"
+    },
+    "allTestimonial": [
+      {
+        "reviewText": "I have been lucky enough to study with Mann Ambani and have always been impressed by his dedication and hard work. He is diligent and always tries to learn and improve, especially in Android development. Whether in group projects or discussions during classes, Mann was always eager to give input, collaborate, and help others. His positive nature and acceptance of challenges made it very good to work with him. I have never doubted that he will carry the same dedication in any team he joins. I highly recommend him!",
+        "avatarImg": "/src/assets/wenbinfen.jpeg",
+        "avatarName": "Wenbin Fan",
+        "avatarCompany": "iOS Developer"
+      },
+      {
+        "reviewText": "It was a great experience working with Mann Ambani on our Garden Nerds capstone project. As part of our academic team, Mann demonstrated a strong work ethic, technical expertise in Android development, and a solid understanding of entrepreneurship. His commitment to learning and his ability to contribute effectively to the team were invaluable. I have no doubt that Mann will continue to grow and achieve success in his career, and I highly recommend him for any future opportunities in Android development or beyond.",
+        "avatarImg": "/src/assets/amarnath.jpeg",
+        "avatarName": "Amarnath Kathiresan",
+        "avatarCompany": "Senior Software Developer"
+      },
+      {
+        "reviewText": "I had the pleasure of working with Mann Ambani on our capstone project, Garden Nerds, as part of our academic team. Mann brought great enthusiasm, creativity, and technical skills to the table. His contributions to the Android development aspect were impressive, and his ability to learn quickly and adapt to new challenges made him a valuable team member. Mann’s collaborative attitude and problem-solving approach were key to the success of our project. I’m confident he’ll excel in any future endeavors, and I highly recommend him.",
+        "avatarImg": "/src/assets/pretty.jpeg",
+        "avatarName": "Pretty Antony",
+        "avatarCompany": "Senior Software Developer"
+      },
+      {
+        "reviewText": "I highly recommend Mann Ambani for any future Android development opportunities. He has been an exceptional asset to our team at OOB SMARTHOME over the past year, consistently delivering high-quality code and displaying a deep understanding of Android development principles. Mann's problem-solving skills and attention to detail have greatly contributed to the success and stability of our projects. Additionally, he is an excellent team player, always willing to collaborate and support fellow colleagues. His technical expertise, dedication, and positive attitude make him an outstanding junior Android developer deserving of recognition and further opportunities.",
+        "avatarImg": "/src/assets/monali.jpeg",
+        "avatarName": "Monali Gondaliya",
+        "avatarCompany": "Senior Android Developer"
+      }
+    ]
+  },
+  "contact": {
+    "sectionHeading": {
+      "title": "Let’s Discuss Your Project",
+      "subTitle": "Always available for freelancing if the right project comes along, Feel free to contact me."
+    },
+    "contactImg": "/src/assets/contact-us.png",
+    "contactInfo": [
+      {
+        "title": "Write an e-mail",
+        "email": "mann.ambani007@gmail.com"
+      },
+      {
+        "title": "Contact me",
+        "tel": "+1 (437) 679-9353"
+      }
+    ]
+  },
+  "socialBtns": [
+    {
+      "icon": "simple-icons:github",
+      "iconBgClass": "bg-github",
+      "href": "https://github.com/MannAmbani",
+      "iconSize": "40px"
+    },
+    {
+      "icon": "fa-brands:linkedin-in",
+      "iconBgClass": "linkedin",
+      "href": "http://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=mannambani"
+    }
+  ]
+}
