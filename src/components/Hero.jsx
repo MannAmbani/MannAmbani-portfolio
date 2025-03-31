@@ -57,7 +57,7 @@ export default function Hero({ data, socialData }) {
           </div>
           <div className="col-lg-6">
             <div className="hs-banner">
-              {/* <img className="admin-image" src={imgUrl} title alt="Admin" width="500" height="600" /> */}
+              <img className="admin-image" src={imgUrl} title alt="Admin" width="500" height="600" />
             </div>
           </div>
         </div>

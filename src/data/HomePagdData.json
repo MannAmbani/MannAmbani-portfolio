@@ -1,6 +1,6 @@
 {
   "hero": {
-    "imgUrl": "/assets/mann1.jpeg",
+    "imgUrl": "/assets/admin_img.png",
     "name": "Mann Ambani",
     "heading": "Hi, I’m Mann",
     "typingText": ["I'm a Developer", 1500, "I'm a Contributor", 1500],

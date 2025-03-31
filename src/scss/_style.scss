@@ -733,8 +733,14 @@ p {
   pointer-events: none;
 }
 
+.hs-banner {
+  text-align: end;
+}
+
 .admin-image {
   border-radius: 100px;
+  height: 550px;
+  background: #dde4ff;
 }
 
 .hero-container {
