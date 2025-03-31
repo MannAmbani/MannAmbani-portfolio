@@ -31,10 +31,10 @@ export default function ContactForm() {
 
     emailjs
       .send(
-        "service_12gsdii", // Replace with your EmailJS service ID
-        "template_mquz1jk", // Replace with your EmailJS template ID
+        "service_i0hyq37", // Replace with your EmailJS service ID
+        "template_xz1kbyn", // Replace with your EmailJS template ID
         data,
-        "5QPSbKyv7uy5mPyDH" // Replace with your EmailJS public key
+        "-8iFa8nSB78Z2bSoj" // Replace with your EmailJS public key
       )
       .then(
         (result) => {
@@ -44,7 +44,7 @@ export default function ContactForm() {
           alert("Message sent successfully!");
         },
         (error) => {
-          console.error("Error:", error.text);
+          console.error("Error:", error.text, data);
           setLoading(false);
           alert("Failed to send message. Please try again later.");
         }
