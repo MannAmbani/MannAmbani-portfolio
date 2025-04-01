@@ -24,7 +24,7 @@ export default function Header() {
   const handleDownload = () => {
     setMobileToggle(false);
 
-    const fileUrl = "/src/assets/Mann_Ambani_Resume.pdf"; // Replace with your file path
+    const fileUrl = "/assets/Mann_Ambani_Resume.pdf"; // Replace with your file path
     const fileName = "Mann_Ambani_Resume_Software_Developer.pdf"; // Set your desired file name
 
     // Create a temporary anchor element to trigger the download
